@@ -1,0 +1,53 @@
+main {
+  font-family :'Pixel';
+}
+
+a {
+  text-decoration: none;
+  color :  #FF0374;
+
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('./assets/Pixeled.ttf')
+format('truetype');
+  font-weight: normal;
+  font-style:normal;
+
+}
+
+.sillygoofy {
+  color:#00000;
+}
+
+
+
+.Rob{
+
+    width:500px;
+    border: 5px solid rgb(255, 255, 255);
+    font-color:#FF0374;
+    background: #000000;
+    padding: 5px 30px;
+    margin: 20px;
+
+}
+
+
+
+
+.funkysilly {
+  font-family : 'Pixel';
+
+}
+
+
+.mewmew {
+
+  border: 5px solid rgb(0, 0, 0);
+  background: #ffffff;
+  padding: 5px 30px;
+  margin: 20px;
+
+}
